@@ -1,0 +1,5 @@
+#ignore folders
+bin/
+obj/
+*.tmp
+
