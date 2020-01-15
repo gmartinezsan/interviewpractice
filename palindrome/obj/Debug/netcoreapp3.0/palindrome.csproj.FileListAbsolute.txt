@@ -1,0 +1,11 @@
+/Users/gabriela.martinez/Projects/dotnet/palindrome/bin/Debug/netcoreapp3.0/palindrome
+/Users/gabriela.martinez/Projects/dotnet/palindrome/bin/Debug/netcoreapp3.0/palindrome.deps.json
+/Users/gabriela.martinez/Projects/dotnet/palindrome/bin/Debug/netcoreapp3.0/palindrome.runtimeconfig.json
+/Users/gabriela.martinez/Projects/dotnet/palindrome/bin/Debug/netcoreapp3.0/palindrome.runtimeconfig.dev.json
+/Users/gabriela.martinez/Projects/dotnet/palindrome/bin/Debug/netcoreapp3.0/palindrome.dll
+/Users/gabriela.martinez/Projects/dotnet/palindrome/bin/Debug/netcoreapp3.0/palindrome.pdb
+/Users/gabriela.martinez/Projects/dotnet/palindrome/obj/Debug/netcoreapp3.0/palindrome.csprojAssemblyReference.cache
+/Users/gabriela.martinez/Projects/dotnet/palindrome/obj/Debug/netcoreapp3.0/palindrome.AssemblyInfoInputs.cache
+/Users/gabriela.martinez/Projects/dotnet/palindrome/obj/Debug/netcoreapp3.0/palindrome.AssemblyInfo.cs
+/Users/gabriela.martinez/Projects/dotnet/palindrome/obj/Debug/netcoreapp3.0/palindrome.dll
+/Users/gabriela.martinez/Projects/dotnet/palindrome/obj/Debug/netcoreapp3.0/palindrome.pdb

@@ -1,0 +1,11 @@
+/Users/gabrielamartinezsanchez/Documents/personalstuff/Projects/dotnet/balancedparenthesis/bin/Debug/netcoreapp3.1/balancedparenthesis
+/Users/gabrielamartinezsanchez/Documents/personalstuff/Projects/dotnet/balancedparenthesis/bin/Debug/netcoreapp3.1/balancedparenthesis.deps.json
+/Users/gabrielamartinezsanchez/Documents/personalstuff/Projects/dotnet/balancedparenthesis/bin/Debug/netcoreapp3.1/balancedparenthesis.runtimeconfig.json
+/Users/gabrielamartinezsanchez/Documents/personalstuff/Projects/dotnet/balancedparenthesis/bin/Debug/netcoreapp3.1/balancedparenthesis.runtimeconfig.dev.json
+/Users/gabrielamartinezsanchez/Documents/personalstuff/Projects/dotnet/balancedparenthesis/bin/Debug/netcoreapp3.1/balancedparenthesis.dll
+/Users/gabrielamartinezsanchez/Documents/personalstuff/Projects/dotnet/balancedparenthesis/bin/Debug/netcoreapp3.1/balancedparenthesis.pdb
+/Users/gabrielamartinezsanchez/Documents/personalstuff/Projects/dotnet/balancedparenthesis/obj/Debug/netcoreapp3.1/balancedparenthesis.csprojAssemblyReference.cache
+/Users/gabrielamartinezsanchez/Documents/personalstuff/Projects/dotnet/balancedparenthesis/obj/Debug/netcoreapp3.1/balancedparenthesis.AssemblyInfoInputs.cache
+/Users/gabrielamartinezsanchez/Documents/personalstuff/Projects/dotnet/balancedparenthesis/obj/Debug/netcoreapp3.1/balancedparenthesis.AssemblyInfo.cs
+/Users/gabrielamartinezsanchez/Documents/personalstuff/Projects/dotnet/balancedparenthesis/obj/Debug/netcoreapp3.1/balancedparenthesis.dll
+/Users/gabrielamartinezsanchez/Documents/personalstuff/Projects/dotnet/balancedparenthesis/obj/Debug/netcoreapp3.1/balancedparenthesis.pdb

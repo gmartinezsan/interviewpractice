@@ -1,0 +1,11 @@
+/Users/gabrielamartinezsanchez/Documents/personalstuff/Projects/dotnet/max_profit/bin/Debug/netcoreapp3.1/max_profit
+/Users/gabrielamartinezsanchez/Documents/personalstuff/Projects/dotnet/max_profit/bin/Debug/netcoreapp3.1/max_profit.deps.json
+/Users/gabrielamartinezsanchez/Documents/personalstuff/Projects/dotnet/max_profit/bin/Debug/netcoreapp3.1/max_profit.runtimeconfig.json
+/Users/gabrielamartinezsanchez/Documents/personalstuff/Projects/dotnet/max_profit/bin/Debug/netcoreapp3.1/max_profit.runtimeconfig.dev.json
+/Users/gabrielamartinezsanchez/Documents/personalstuff/Projects/dotnet/max_profit/bin/Debug/netcoreapp3.1/max_profit.dll
+/Users/gabrielamartinezsanchez/Documents/personalstuff/Projects/dotnet/max_profit/bin/Debug/netcoreapp3.1/max_profit.pdb
+/Users/gabrielamartinezsanchez/Documents/personalstuff/Projects/dotnet/max_profit/obj/Debug/netcoreapp3.1/max_profit.csprojAssemblyReference.cache
+/Users/gabrielamartinezsanchez/Documents/personalstuff/Projects/dotnet/max_profit/obj/Debug/netcoreapp3.1/max_profit.AssemblyInfoInputs.cache
+/Users/gabrielamartinezsanchez/Documents/personalstuff/Projects/dotnet/max_profit/obj/Debug/netcoreapp3.1/max_profit.AssemblyInfo.cs
+/Users/gabrielamartinezsanchez/Documents/personalstuff/Projects/dotnet/max_profit/obj/Debug/netcoreapp3.1/max_profit.dll
+/Users/gabrielamartinezsanchez/Documents/personalstuff/Projects/dotnet/max_profit/obj/Debug/netcoreapp3.1/max_profit.pdb

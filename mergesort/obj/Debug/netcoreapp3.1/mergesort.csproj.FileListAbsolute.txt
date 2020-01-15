@@ -1,0 +1,11 @@
+/Users/gabrielamartinezsanchez/Documents/personalstuff/Projects/dotnet/mergesort/bin/Debug/netcoreapp3.1/mergesort
+/Users/gabrielamartinezsanchez/Documents/personalstuff/Projects/dotnet/mergesort/bin/Debug/netcoreapp3.1/mergesort.deps.json
+/Users/gabrielamartinezsanchez/Documents/personalstuff/Projects/dotnet/mergesort/bin/Debug/netcoreapp3.1/mergesort.runtimeconfig.json
+/Users/gabrielamartinezsanchez/Documents/personalstuff/Projects/dotnet/mergesort/bin/Debug/netcoreapp3.1/mergesort.runtimeconfig.dev.json
+/Users/gabrielamartinezsanchez/Documents/personalstuff/Projects/dotnet/mergesort/bin/Debug/netcoreapp3.1/mergesort.dll
+/Users/gabrielamartinezsanchez/Documents/personalstuff/Projects/dotnet/mergesort/bin/Debug/netcoreapp3.1/mergesort.pdb
+/Users/gabrielamartinezsanchez/Documents/personalstuff/Projects/dotnet/mergesort/obj/Debug/netcoreapp3.1/mergesort.csprojAssemblyReference.cache
+/Users/gabrielamartinezsanchez/Documents/personalstuff/Projects/dotnet/mergesort/obj/Debug/netcoreapp3.1/mergesort.AssemblyInfoInputs.cache
+/Users/gabrielamartinezsanchez/Documents/personalstuff/Projects/dotnet/mergesort/obj/Debug/netcoreapp3.1/mergesort.AssemblyInfo.cs
+/Users/gabrielamartinezsanchez/Documents/personalstuff/Projects/dotnet/mergesort/obj/Debug/netcoreapp3.1/mergesort.dll
+/Users/gabrielamartinezsanchez/Documents/personalstuff/Projects/dotnet/mergesort/obj/Debug/netcoreapp3.1/mergesort.pdb

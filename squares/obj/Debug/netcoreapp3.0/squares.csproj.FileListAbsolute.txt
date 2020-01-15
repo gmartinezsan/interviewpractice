@@ -1,0 +1,11 @@
+/Users/gabriela.martinez/Projects/dotnet/squares/bin/Debug/netcoreapp3.0/squares
+/Users/gabriela.martinez/Projects/dotnet/squares/bin/Debug/netcoreapp3.0/squares.deps.json
+/Users/gabriela.martinez/Projects/dotnet/squares/bin/Debug/netcoreapp3.0/squares.runtimeconfig.json
+/Users/gabriela.martinez/Projects/dotnet/squares/bin/Debug/netcoreapp3.0/squares.runtimeconfig.dev.json
+/Users/gabriela.martinez/Projects/dotnet/squares/bin/Debug/netcoreapp3.0/squares.dll
+/Users/gabriela.martinez/Projects/dotnet/squares/bin/Debug/netcoreapp3.0/squares.pdb
+/Users/gabriela.martinez/Projects/dotnet/squares/obj/Debug/netcoreapp3.0/squares.csprojAssemblyReference.cache
+/Users/gabriela.martinez/Projects/dotnet/squares/obj/Debug/netcoreapp3.0/squares.AssemblyInfoInputs.cache
+/Users/gabriela.martinez/Projects/dotnet/squares/obj/Debug/netcoreapp3.0/squares.AssemblyInfo.cs
+/Users/gabriela.martinez/Projects/dotnet/squares/obj/Debug/netcoreapp3.0/squares.dll
+/Users/gabriela.martinez/Projects/dotnet/squares/obj/Debug/netcoreapp3.0/squares.pdb

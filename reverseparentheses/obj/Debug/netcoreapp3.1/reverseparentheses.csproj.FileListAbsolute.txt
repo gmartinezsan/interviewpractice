@@ -1,0 +1,11 @@
+/Users/gabrielamartinezsanchez/Documents/personalstuff/Projects/dotnet/reverseparentheses/bin/Debug/netcoreapp3.1/reverseparentheses
+/Users/gabrielamartinezsanchez/Documents/personalstuff/Projects/dotnet/reverseparentheses/bin/Debug/netcoreapp3.1/reverseparentheses.deps.json
+/Users/gabrielamartinezsanchez/Documents/personalstuff/Projects/dotnet/reverseparentheses/bin/Debug/netcoreapp3.1/reverseparentheses.runtimeconfig.json
+/Users/gabrielamartinezsanchez/Documents/personalstuff/Projects/dotnet/reverseparentheses/bin/Debug/netcoreapp3.1/reverseparentheses.runtimeconfig.dev.json
+/Users/gabrielamartinezsanchez/Documents/personalstuff/Projects/dotnet/reverseparentheses/bin/Debug/netcoreapp3.1/reverseparentheses.dll
+/Users/gabrielamartinezsanchez/Documents/personalstuff/Projects/dotnet/reverseparentheses/bin/Debug/netcoreapp3.1/reverseparentheses.pdb
+/Users/gabrielamartinezsanchez/Documents/personalstuff/Projects/dotnet/reverseparentheses/obj/Debug/netcoreapp3.1/reverseparentheses.csprojAssemblyReference.cache
+/Users/gabrielamartinezsanchez/Documents/personalstuff/Projects/dotnet/reverseparentheses/obj/Debug/netcoreapp3.1/reverseparentheses.AssemblyInfoInputs.cache
+/Users/gabrielamartinezsanchez/Documents/personalstuff/Projects/dotnet/reverseparentheses/obj/Debug/netcoreapp3.1/reverseparentheses.AssemblyInfo.cs
+/Users/gabrielamartinezsanchez/Documents/personalstuff/Projects/dotnet/reverseparentheses/obj/Debug/netcoreapp3.1/reverseparentheses.dll
+/Users/gabrielamartinezsanchez/Documents/personalstuff/Projects/dotnet/reverseparentheses/obj/Debug/netcoreapp3.1/reverseparentheses.pdb

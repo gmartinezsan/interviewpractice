@@ -1,0 +1,11 @@
+/Users/gabriela.martinez/Projects/dotnet/pangram/bin/Debug/netcoreapp3.0/pangram
+/Users/gabriela.martinez/Projects/dotnet/pangram/bin/Debug/netcoreapp3.0/pangram.deps.json
+/Users/gabriela.martinez/Projects/dotnet/pangram/bin/Debug/netcoreapp3.0/pangram.runtimeconfig.json
+/Users/gabriela.martinez/Projects/dotnet/pangram/bin/Debug/netcoreapp3.0/pangram.runtimeconfig.dev.json
+/Users/gabriela.martinez/Projects/dotnet/pangram/bin/Debug/netcoreapp3.0/pangram.dll
+/Users/gabriela.martinez/Projects/dotnet/pangram/bin/Debug/netcoreapp3.0/pangram.pdb
+/Users/gabriela.martinez/Projects/dotnet/pangram/obj/Debug/netcoreapp3.0/pangram.csprojAssemblyReference.cache
+/Users/gabriela.martinez/Projects/dotnet/pangram/obj/Debug/netcoreapp3.0/pangram.AssemblyInfoInputs.cache
+/Users/gabriela.martinez/Projects/dotnet/pangram/obj/Debug/netcoreapp3.0/pangram.AssemblyInfo.cs
+/Users/gabriela.martinez/Projects/dotnet/pangram/obj/Debug/netcoreapp3.0/pangram.dll
+/Users/gabriela.martinez/Projects/dotnet/pangram/obj/Debug/netcoreapp3.0/pangram.pdb

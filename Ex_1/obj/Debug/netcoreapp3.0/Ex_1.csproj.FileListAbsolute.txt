@@ -1,0 +1,11 @@
+/Users/gabriela.martinez/Projects/dotnet/Ex_1/bin/Debug/netcoreapp3.0/Ex_1
+/Users/gabriela.martinez/Projects/dotnet/Ex_1/bin/Debug/netcoreapp3.0/Ex_1.deps.json
+/Users/gabriela.martinez/Projects/dotnet/Ex_1/bin/Debug/netcoreapp3.0/Ex_1.runtimeconfig.json
+/Users/gabriela.martinez/Projects/dotnet/Ex_1/bin/Debug/netcoreapp3.0/Ex_1.runtimeconfig.dev.json
+/Users/gabriela.martinez/Projects/dotnet/Ex_1/bin/Debug/netcoreapp3.0/Ex_1.dll
+/Users/gabriela.martinez/Projects/dotnet/Ex_1/bin/Debug/netcoreapp3.0/Ex_1.pdb
+/Users/gabriela.martinez/Projects/dotnet/Ex_1/obj/Debug/netcoreapp3.0/Ex_1.csprojAssemblyReference.cache
+/Users/gabriela.martinez/Projects/dotnet/Ex_1/obj/Debug/netcoreapp3.0/Ex_1.AssemblyInfoInputs.cache
+/Users/gabriela.martinez/Projects/dotnet/Ex_1/obj/Debug/netcoreapp3.0/Ex_1.AssemblyInfo.cs
+/Users/gabriela.martinez/Projects/dotnet/Ex_1/obj/Debug/netcoreapp3.0/Ex_1.dll
+/Users/gabriela.martinez/Projects/dotnet/Ex_1/obj/Debug/netcoreapp3.0/Ex_1.pdb
