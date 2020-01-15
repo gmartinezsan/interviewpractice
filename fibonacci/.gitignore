@@ -1,0 +1,4 @@
+#ignore folders
+obj/
+bin/
+
