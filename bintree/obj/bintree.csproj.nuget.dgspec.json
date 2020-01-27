@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/gabriela.martinez/Projects/dotnet/bintree/bintree.csproj": {}
+    "/Users/gabrielamartinezsanchez/Documents/personalstuff/Projects/dotnet/interviewpractice/bintree/bintree.csproj": {}
   },
   "projects": {
-    "/Users/gabriela.martinez/Projects/dotnet/bintree/bintree.csproj": {
+    "/Users/gabrielamartinezsanchez/Documents/personalstuff/Projects/dotnet/interviewpractice/bintree/bintree.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/gabriela.martinez/Projects/dotnet/bintree/bintree.csproj",
+        "projectUniqueName": "/Users/gabrielamartinezsanchez/Documents/personalstuff/Projects/dotnet/interviewpractice/bintree/bintree.csproj",
         "projectName": "bintree",
-        "projectPath": "/Users/gabriela.martinez/Projects/dotnet/bintree/bintree.csproj",
-        "packagesPath": "/Users/gabriela.martinez/.nuget/packages/",
-        "outputPath": "/Users/gabriela.martinez/Projects/dotnet/bintree/obj/",
+        "projectPath": "/Users/gabrielamartinezsanchez/Documents/personalstuff/Projects/dotnet/interviewpractice/bintree/bintree.csproj",
+        "packagesPath": "/Users/gabrielamartinezsanchez/.nuget/packages/",
+        "outputPath": "/Users/gabrielamartinezsanchez/Documents/personalstuff/Projects/dotnet/interviewpractice/bintree/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/gabriela.martinez/.nuget/NuGet/NuGet.Config"
+          "/Users/gabrielamartinezsanchez/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
@@ -45,12 +45,18 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.osx-x64",
+              "version": "[3.0.2, 3.0.2]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/gabrielamartinezsanchez/Documents/personalstuff/Projects/dotnet/reverse_list/reverse_list.csproj": {}
+    "/Users/gabrielamartinezsanchez/Documents/personalstuff/Projects/dotnet/interviewpractice/reverse_list/reverse_list.csproj": {}
   },
   "projects": {
-    "/Users/gabrielamartinezsanchez/Documents/personalstuff/Projects/dotnet/reverse_list/reverse_list.csproj": {
+    "/Users/gabrielamartinezsanchez/Documents/personalstuff/Projects/dotnet/interviewpractice/reverse_list/reverse_list.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/gabrielamartinezsanchez/Documents/personalstuff/Projects/dotnet/reverse_list/reverse_list.csproj",
+        "projectUniqueName": "/Users/gabrielamartinezsanchez/Documents/personalstuff/Projects/dotnet/interviewpractice/reverse_list/reverse_list.csproj",
         "projectName": "reverse_list",
-        "projectPath": "/Users/gabrielamartinezsanchez/Documents/personalstuff/Projects/dotnet/reverse_list/reverse_list.csproj",
+        "projectPath": "/Users/gabrielamartinezsanchez/Documents/personalstuff/Projects/dotnet/interviewpractice/reverse_list/reverse_list.csproj",
         "packagesPath": "/Users/gabrielamartinezsanchez/.nuget/packages/",
-        "outputPath": "/Users/gabrielamartinezsanchez/Documents/personalstuff/Projects/dotnet/reverse_list/obj/",
+        "outputPath": "/Users/gabrielamartinezsanchez/Documents/personalstuff/Projects/dotnet/interviewpractice/reverse_list/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/gabrielamartinezsanchez/.nuget/NuGet/NuGet.Config"
