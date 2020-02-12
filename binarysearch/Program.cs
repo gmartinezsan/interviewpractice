@@ -8,9 +8,9 @@ namespace binarysearch
         {
             int[] numbers = new int[7]{2, 3, 7, 11, 15, 17, 20};
             Console.WriteLine(BinarySearchMethod(numbers, 17));            
-            Console.WriteLine(BinarySearchMethod(numbers, 2));                        
+            Console.WriteLine(BinarySearchMethod(numbers, 2));              
+            Console.WriteLine("End");                     
         }
-    
 
         public static int BinarySearchMethod(int[] numbers, int x)
         {
