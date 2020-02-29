@@ -1,5 +1,5 @@
 #ignore folders
-bin/
-obj/
+**/bin
+**/obj
 *.tmp
 
