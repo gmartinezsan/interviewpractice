@@ -10,6 +10,20 @@ namespace ReversewordsII
             char[] s = new char[]{'t','h','e',' ' ,'s','k','y',' ','i','s',' ','b','l','u','e'};
             ReverseWords(s);
         }
+        
+        
+        public static void ReverseWordsUsingStack(char[] s)
+        {            
+            if (s == null || s.Length == 0 )
+                return string.Empty;
+        
+            string[] splitted_s = s.Split(new char[] { ' ' },StringSplitOptions.RemoveEmptyEntries);        
+            Collection<string> c = new Collection<string>(splitted_s);        
+            Stack<string> words = new Stack<string>(c);        
+            return string.Join(' ', words.ToArray());                  
+        }
+        
+        
 
         public static void ReverseWords(char[] s)
         {
