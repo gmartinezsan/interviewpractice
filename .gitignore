@@ -2,4 +2,7 @@
 **/bin
 **/obj
 *.tmp
-
+**/Debug
+**/debug
+bintree/bin
+bintree/obj
