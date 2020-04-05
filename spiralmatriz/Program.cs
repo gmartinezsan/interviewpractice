@@ -6,12 +6,83 @@ namespace spiralmatriz
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            int[,] a = new [,]{{2,4,6,8}, {5,9,12,16}, {2,11,5,9}, {3,2,1,8}};
-            PrintMatrix(a);
+            // Test 1
+            // int[,] a = new int [,] {{2,4,6,8}, {5,9,12,16}, {2,11,5,9}, {3,2,1,8}};
+            
+            // Test 2
+            int[,] a = new int[,] { { 1 }, { 2 } };
+            var result = SpiralMatrixToArray(a);
+
+            for (int i = 0; i < result.Length; i++)
+            {
+                Console.WriteLine(result[i]);
+            }
         }
 
-        static void PrintMatrix(int[,] a)
+        static int[] SpiralMatrixToArray(int[,] inputMatrix)
+        {
+            if (inputMatrix.GetLength(1) == 0 && inputMatrix.GetLength(0) == 0)
+                return new int[0];
+
+            var iterator = 0;
+            int row = 0;
+            int colright = inputMatrix.GetLength(1) - 1;
+            int colLeft = 0;
+            var l = inputMatrix.GetLength(1) * inputMatrix.GetLength(0);
+            var spiralCopy = new int[l];
+            var indexSpiral = 0;
+            var bottom = inputMatrix.GetLength(0) - 1; // number of rows
+
+            while (row < bottom && colLeft < colright)
+            {
+                if (iterator == 0)
+                {
+                    // top left to top right
+                    for (int i = colLeft; i <= colright; i++)
+                    {
+                        spiralCopy[indexSpiral++] = inputMatrix[row, i];
+                    }
+                    row++;
+                    iterator = 1;
+                }
+
+                if (iterator == 1)
+                {
+                    // right top to the bottom right
+                    for (int i = row; i <= bottom; i++)
+                    {
+                        spiralCopy[indexSpiral++] = inputMatrix[i, colright];
+                    }
+                    colright--;
+                    iterator = 2;
+                }
+
+                if (iterator == 2)
+                {
+                    // bottom right to bottom left
+                    for (int i = colright; i >= colLeft; i--)
+                    {
+                        spiralCopy[indexSpiral++] = inputMatrix[bottom, i];
+                    }
+                    bottom--;
+                    iterator = 3;
+                }
+
+                if (iterator == 3)
+                {
+                    // bottom left to top right
+                    for (int i = bottom; i >= row; i--)
+                    {
+                        spiralCopy[indexSpiral++] = inputMatrix[i, colLeft];
+                    }
+                    colLeft++;
+                    iterator = 0;
+                }
+            }
+            return spiralCopy;
+        }
+
+        static void SpiralMatrixToConsole(int[,] a)
         {
             int rows = a.GetLength(0);
             int columns = a.GetLength(1);
@@ -37,27 +108,27 @@ namespace spiralmatriz
                 {
                     for (int i = top; i <= bottom; i++)
                     {
-                        Console.Write(a[i,right]);                        
+                        Console.Write(a[i, right]);
                     }
                     right--;
                     direction = 2;
                 }
                 if (direction == 2)
                 {
-                    for(int i = right; i>= left; i--)
+                    for (int i = right; i >= left; i--)
                     {
                         Console.Write(a[bottom, i]);
                     }
-                    bottom --;
+                    bottom--;
                     direction = 3;
                 }
                 if (direction == 3)
                 {
-                    for(int i = bottom ; i >= top; i--)
+                    for (int i = bottom; i >= top; i--)
                     {
-                        Console.Write(a[i,left]);
+                        Console.Write(a[i, left]);
                     }
-                    left++;                    
+                    left++;
                     direction = 0;
                 }
             }
