@@ -43,12 +43,6 @@ namespace tilt_of_tree
             Console.WriteLine("Tilt of tree " + tiltSum);
         }
 
-        // public static int FindTilt(Node root)
-        // {
-        //     DFS (root);
-        //     return tiltSum;
-        // }
-
         public static int DFS(Node node)
         {
             if (node == null)
