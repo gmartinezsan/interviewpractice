@@ -24,3 +24,9 @@ Random exercises for coding practice using C#
 - [Geeks for geeks](https://www.geeksforgeeks.org/)
 - [Pramp](https://www.pramp.com/#/)
 - [Triple byte](https://triplebyte.com/)
+- [Interview cake](https://www.interviewcake.com/)
+
+**Disclaimer:**  Not affiliated to any, but found them useful.
+# Books
+
+- Elements of Programming Interviews in Java, by Adnan Aziz, Tsung-Hsien Lee and Amit Prakash.
