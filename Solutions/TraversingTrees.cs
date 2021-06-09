@@ -15,8 +15,31 @@ namespace Solutions
             return nodes;
         }
 
-        public static void PreOrderTraversalIterative()
-        { }
+        public static List<T> PreOrderTraversalIterative<T>(TreeNode<T> treeNode, List<T> nodes)
+        {
+            if (treeNode == null)
+                return null;
+
+            Stack<TreeNode<T>> stack = new Stack<TreeNode<T>>();
+
+            stack.Push(treeNode);
+
+            while (stack.Count > 0)
+            {
+                var currentNode = stack.Pop();
+                nodes.Add(currentNode.val);
+
+                if (currentNode.right != null)
+                {
+                    stack.Push(currentNode.right);
+                }
+                if (currentNode.left != null)
+                {
+                    stack.Push(currentNode.left);
+                }
+            }
+            return nodes;
+        }
 
         public static void PostOrderTraversalRecursive()
         { }

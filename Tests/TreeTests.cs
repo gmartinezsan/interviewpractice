@@ -52,9 +52,17 @@ namespace Tests
             Assert.Equal(actual, expected);
         }
 
+        [Fact]
+        public void PrintPreOrderIterative()
+        {
+            var expected = new List<int>() { 4, 2, 1, 3, 7, 6, 9 };
+            var actual = Solutions.TraversingTrees.PreOrderTraversalIterative<int>(_rootInvertTest, new List<int>());
+            Assert.Equal(expected, actual);
+        }
+
         private void CreateTrees()
         {
-
+ 
             // Create valid binary search tree for usage in tests
             _rootToValidBinarySearchTree = new TreeNode<int>(5);
             _rootToValidBinarySearchTree.left = new TreeNode<int>(4);
